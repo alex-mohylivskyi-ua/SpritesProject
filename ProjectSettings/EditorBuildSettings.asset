@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7317187f1ac6d4bc7aeac5869355f49d
+  - enabled: 1
+    path: Assets/Scenes/CharSelect.unity
+    guid: 16690d289b20d4ed59518b8f34013099
+  - enabled: 1
+    path: Assets/Scenes/Arena_1.unity
+    guid: 5e178eb0726664b97a7a06a3a013f074
+  - enabled: 1
+    path: Assets/Scenes/Arena_2.unity
+    guid: 6792a5fc58f0541efbb92e41f7bafdf9
+  - enabled: 1
+    path: Assets/Scenes/Arena_3.unity
+    guid: 4af7141ee7f624e2b8a3795821d01656
+  - enabled: 1
+    path: Assets/Scenes/Arena_3.unity
+    guid: 4af7141ee7f624e2b8a3795821d01656
+  - enabled: 1
+    path: Assets/Scenes/Arena_4.unity
+    guid: c2e1600435efc4df29012dbf630b2cc4
+  - enabled: 1
+    path: Assets/Scenes/Arena_5.unity
+    guid: ef35d71fb1a9543f7b0d931efbe532cb
+  - enabled: 1
+    path: Assets/Scenes/Arena_6.unity
+    guid: 39f1e32d6679f4857aed1ba08b7fd936
+  - enabled: 1
+    path: Assets/Scenes/GameWinScreen.unity
+    guid: aaa91572554314e58b33083d77d0cad0
+  m_configObjects: {}

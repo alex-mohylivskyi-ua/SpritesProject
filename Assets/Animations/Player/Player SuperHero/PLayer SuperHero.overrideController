@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PLayer SuperHero
+  m_Controller: {fileID: 9100000, guid: f15da08a95d214cee939bc3aa88e8a21, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 04d9f512c67b5456a8c52595b89bcd9c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 78ede3e8f90df4f8db8d374bedf316b4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 617bc76808582400baf7e3442000f666, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13698646e52d34e70a518566a778f30e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ec0fcfff6a0e64cb0a4ca1fa5a08cb73, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ce1f3846645594d86a0e827c4fe2e9b1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 98979615edd1d48da8549e2cac834f4a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f54ba13a6a524c9d9ce30448264233c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f200123aaeabc472ca272429ca976edb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6ed71307459e847679b514479661cf8d, type: 2}
