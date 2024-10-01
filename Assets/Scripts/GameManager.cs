@@ -8,23 +8,16 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    [Header("Game Config")]
     public int maxPlayers;
     public List<PlayerController> activePlayers = new List<PlayerController>();
-
     public GameObject PlayerSpawnEffect;
     public bool canFight = false;
-
     public string[] allLevels;
-
     public int pointsToWin = 5;
-
     public List<int> roundWins = new List<int>();
-
     private bool gameWon;
-
     [SerializeField] private string gameWonLevel;
-
-
     [HideInInspector] public int lastPlayerNumber;
     // private string[] sortedLevels;
     private List<string> sortedLevels = new List<string>();
@@ -42,7 +35,8 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //TODO
+        Application.targetFrameRate = 60;
     }
 
     // Update is called once per frame
